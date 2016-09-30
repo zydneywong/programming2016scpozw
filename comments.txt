@@ -1,0 +1,9 @@
+2016.09.26 - Great work Zydney! If you really didn't look at the solution
+(although we did go over it in class) then your work was spot on. One thing
+to watch out for is creating vectors in loops. For example if I create on vector
+to fill then I create something of size say 5 ([*, *, *, *, *]) whereas if I
+create a new vector each time and increase its size I create objects of size 1,
+2, 3, 4, 5 ([*], [*, *], [*, *, *], [*,*,*,*], [*,*,*,*,*]). That's a lot more
+things to create and the size of the difference grows exponentially in the number
+of loops! Overall, your participation is great, but remember that submitting
+anything is sufficient to get a grade, so do submit even blank documents!
