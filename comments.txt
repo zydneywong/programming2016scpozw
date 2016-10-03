@@ -1,3 +1,5 @@
+Tyler's Comments
+
 2016.09.26 - Great work Zydney! If you really didn't look at the solution
 (although we did go over it in class) then your work was spot on. One thing
 to watch out for is creating vectors in loops. For example if I create on vector
@@ -7,3 +9,7 @@ create a new vector each time and increase its size I create objects of size 1,
 things to create and the size of the difference grows exponentially in the number
 of loops! Overall, your participation is great, but remember that submitting
 anything is sufficient to get a grade, so do submit even blank documents!
+
+2016.10.03 - Nice job Zydney. Take a look at the solution for the function
+and don't worry about the plotting, it is too difficult to work with at this
+point.
